@@ -25,8 +25,6 @@
 [website]: https://google.com
 [linkedin]: https://www.linkedin.com/in/gilvan-araujo-jr/
 
-### Hi there 👋
-
 <!--
 **Gilvan-Araujo/gilvan-araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
