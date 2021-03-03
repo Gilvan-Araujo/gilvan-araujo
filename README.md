@@ -1,4 +1,4 @@
-<h1 align="center">About me</h1>
+<h1 align="center">Gilvan Araújo</h1>
 
 <h2 align="center">About me</h2>
 
