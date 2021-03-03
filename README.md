@@ -1,41 +1,79 @@
-### Hi, I'm Gilvan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<<<<<<< HEAD
+# Gilvan Júnior
 
-## Computer Science Student currently in my 4th Year
-- 🔭 I’m currently working on - Web Development
-- 🌱 I’m currently learning - HTML5, CSS3 and JavaScript
-- 👯 I’m looking to collaborate with - Other developers that are as passionate
-- 🥅 2021 Goal - Create passionate projects, including a personal website
-- ⚡ Fun fact - I'm familiarized with GIMP and Inkscape
+<h2 align="center">About me</h2>
 
-<!-- ❔❔❔❔ means username in below README.md -->
-<!-- Also feel free to update second URL to any URL -->
-![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=gilvan-araujo&count_private=true&include_all_commits=true&theme=radical)
+```javascript
+const gilvan = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["web dev", "tech", "game"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.JS"],
+        },
+        databases: ["PostgreSQL"],
+    }
+};
+```
 
-## Connect with me:
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
+<h2 align="center">You can reach me at :handshake:</h2>
 
-<!-- Optional if you have blogs -->
-<!-- ## Latest blog posts: -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<p align="center">
+  <!-- <a href="https://dev.to/">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gilvan Araújo's DEV Profile" height="30" width="30">
+  </a> -->
 
-<!-- This section you create this variables that are used above -->
-[website]: https://google.com
-[linkedin]: https://www.linkedin.com/in/gilvan-araujo-jr/
+  <a href="https://www.linkedin.com/in/gilvan-araujo-jr/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Gilvan Araújo's LinkedIn Profile" height="30" width="30">
+  </a>
 
-<!--
-**Gilvan-Araujo/gilvan-araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- <a href="https://stackoverflow.com/users/">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Gilvan Araújo's Stack Overflow Profile" height="30" width="30">
+  </a> -->
 
-Here are some ideas to get you started:
+  <!-- <a href="https://stackexchange.com/users/">
+    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Gilvan Araújo's Stack Exchange Profile" height="30" width="30">
+  </a> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://stackshare.io/gilvan-araujo/">
+    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Gilvan Araújo's StackShare Profile" height="30" width="30">
+  </a>
+  
+  <!-- <a href="https://gitlab.com/">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Gilvan Araújo's GitLab Profile" height="30" width="30">
+  </a> -->
+  
+  <!-- <a href="https://medium.com/">
+    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Gilvan Araújo's Medium Profile" height="30" width="30">
+  </a> -->
+  
+  <!-- <a href="https://www.youtube.com/">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Gilvan Araújo's YouTube Channel" height="30" width="30">
+  </a> -->
+</p>
+
+<h2 align="center">My stack :man_technologist:</h2>
+
+<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
+<p align="center">
+  <a href="https://stackshare.io/gilvan-araujo/my-stack">
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge" alt="Gilvan :: StackShare" />
+  </a>
+</p>
+
+
+<h2 align="center">Github stats :bar_chart:</h2>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{gilvan-araujo}/count.svg" alt="Gilvan :: Visitor's Count" /></p>
+
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilvan-araujo&langs_count=10&theme=tokyonight&layout=compact" alt="Gilvan :: Top Langs" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gilvan-araujo&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
