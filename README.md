@@ -63,15 +63,15 @@ const gilvan = {
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<h3 align="center">Visitor's count :eyes:</h3>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{gilvan-araujo}/count.svg" alt="Gilvan :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs :tongue:</h4>
+<h3 align="center">Top langs :tongue:</h3>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilvan-araujo&langs_count=10&theme=tokyonight&layout=compact" alt="Gilvan :: Top Langs" /></p>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+<h3 align="center">Profile stats :musical_keyboard:</h3>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gilvan-araujo&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
