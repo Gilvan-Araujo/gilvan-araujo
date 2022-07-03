@@ -8,9 +8,9 @@ const gilvan = {
     askMeAbout: ["web dev", "tech", "games"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.JS"],
+            js: ["React", "Next.JS", "Vue.JS"],
         },
-        databases: ["PostgreSQL"],
+        databases: ["FaunaDB", "PostgreSQL"],
     }
 };
 ```
@@ -75,4 +75,4 @@ const gilvan = {
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gilvan-araujo&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/45008443/177042940-d2ffc1ab-a036-4ce2-8a66-606b2117e778.gif" alt="Tron: Legacy" height="288" width="512"></p>
